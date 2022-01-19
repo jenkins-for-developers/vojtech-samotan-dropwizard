@@ -1,5 +1,6 @@
 # DropWizard Demo Application
 
+
 Welcome to the DropWizard Demo Application !
 
 The goal of this repository is to show a tiny application example
