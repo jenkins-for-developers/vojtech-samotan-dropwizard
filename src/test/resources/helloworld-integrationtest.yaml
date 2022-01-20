@@ -1,6 +1,4 @@
-
 template:  "Hello, %s!"
 defaultName: Integration Test
-
 server:
   rootPath: /api/
